@@ -3,7 +3,7 @@
 <svg version="1.1" id="Grand_West_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.track-surface{fill:none;stroke:#231F20;stroke-width:10;stroke-miterlimit:10;}
+	svg {height: 100%;width: 100%;}.track-surface {fill: none;stroke: white;stroke-width: 30;}
 </style>
 <path class="track-surface" d="M1779.9,441.4c-0.5-12.1-14.7-33.4-24.4-43.6c-9.9-10.4-20.9-15.1-35.9-15.1c-12.9,0-64.6,8.7-81.7,11.8
 	c-14.2,2.6-28.1,6.1-41.8,10.6l-0.2,0.1c-0.7,0.3-68.1,25.1-86.7,31.9c-2.5,0.9-4.9,1.9-7.7,3c-26,10.8-46.2,1.5-47,1.1l-0.1-0.1

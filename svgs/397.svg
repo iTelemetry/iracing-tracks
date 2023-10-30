@@ -3,7 +3,7 @@
 <svg version="1.1" id="IndyCar_2012-2018_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.track-surface{fill:none;stroke:#231F20;stroke-width:10;stroke-miterlimit:10;}
+	svg {height: 100%;width: 100%;}.track-surface {fill: none;stroke: white;stroke-width: 30;}
 </style>
 <path class="track-surface" d="M490,842.9c-25.5,0-52.2-7.8-81.6-23.6c-32-17.3-73.4-41.8-98.3-58.2c-1.4-0.9-4.1-2.6-7.4-4.7
 	c-47.6-30.2-103.5-67.8-114.1-89.5c-5.9-12.2-3-20.6,0.4-25.5c11.7-16.7,45.4-13.6,49.2-13.2c21.3,2.2,58.8,10.8,83.7,16.5l10.3,2.3

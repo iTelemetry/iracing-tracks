@@ -11,6 +11,17 @@ sed -i '.bak' "s/$ESCAPED_KEYWORD/$ESCAPED_REPLACE/g" *.svg
 
 
 
+KEYWORD=".track-surface{fill:none;stroke:#231F20;stroke-width:10;stroke-miterlimit:10;}"
+ESCAPED_KEYWORD=$(printf '%s\n' "$KEYWORD" | sed -e 's/[]\/$*.^[]/\\&/g')
+
+REPLACE='svg {height: 100%;width: 100%;}.track-surface {fill: none;stroke: white;stroke-width: 30;}'
+ESCAPED_REPLACE=$(printf '%s\n' "$REPLACE" | sed -e 's/[\/&]/\\&/g')
+
+echo 'Replacing bad .track-surface'
+sed -i '.bak' "s/$ESCAPED_KEYWORD/$ESCAPED_REPLACE/g" *.svg
+
+
+
 KEYWORD='<style type="text/css">.track{fill:none;stroke:#231F20;stroke-width:20;stroke-miterlimit:10;}</style>'
 ESCAPED_KEYWORD=$(printf '%s\n' "$KEYWORD" | sed -e 's/[]\/$*.^[]/\\&/g')
 
