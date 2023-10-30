@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.track-surface{fill:none;stroke:#231F20;stroke-width:20;stroke-miterlimit:10;}
+	svg {height: 100%;width: 100%;}.track-surface {fill: none;stroke: white;stroke-width: 30;}
 </style>
 <path class="track-surface" d="M889.1,952c-52.1,0-98.2-0.8-149.1-3h-0.5l-0.5-0.1c-2-0.3-49.6-7.2-121.1-32.7l-8.1-2.9
 	c-70.7-25.1-202.3-71.8-265.5-103.7c-49.5-25-98.4-66.8-134.1-114.9c-21.6-29-38.4-60.2-49.9-92.4c-13-36.5-19.4-74.5-18.7-113.1
