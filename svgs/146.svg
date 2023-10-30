@@ -3,10 +3,10 @@
 <svg version="1.1" id="Indy_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
 <g id="Layer_18">
-	<path class="st0" d="M1606.1,591.5c0,39.5-14.6,82.1-42.2,123.2c-22.6,33.6-53.8,65.6-85.6,87.8
+	<path class="track-surface" d="M1606.1,591.5c0,39.5-14.6,82.1-42.2,123.2c-22.6,33.6-53.8,65.6-85.6,87.8
 		c-121.2,84.5-268.2,103.4-325.7,107.5c-67.1,4.9-191.6,2.4-274.1,0.7c-12.7-0.2-24.4-0.5-34.7-0.7c-181-3.3-219.9-8.6-290.6-18.4
 		l-10.6-1.5c-78.4-10.8-112.9-26.6-140.4-47c-83.4-61.6-107.8-146.3-72.7-251.9c12.8-38.5,43.3-112.9,60-148.8
 		C412.8,392.3,463,303,504.2,230.7c19.5-34.3,41.5-54.8,65.7-61.4c18.4-4.9,37.5-1.9,57,9.2c28.8,16.5,44.7,38.7,47.2,65.8

@@ -3,9 +3,9 @@
 <svg version="1.1" id="Daytona_Oval_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1784.5,308.5c-26.3-56-63.3-91.1-83-107.1c-100.9-81.7-220.5-82.1-299.8-82.3c-6.6,0-12.8,0-18.8-0.1
+<path class="track-surface" d="M1784.5,308.5c-26.3-56-63.3-91.1-83-107.1c-100.9-81.7-220.5-82.1-299.8-82.3c-6.6,0-12.8,0-18.8-0.1
 	c-150.1-1.6-443.9-4.6-593.5-5.8c-19.8-0.2-45.6-0.5-72.7-0.8c-73.8-0.8-165.6-1.9-218.7-1.3c-106.7,1.1-183.8,21.1-250,64.9l0,0
 	c-47.9,31.7-84.9,72.7-109.7,121.9c-23.7,46.7-30.2,89.1-32,110.2C99,494.7,122.5,572.3,176.1,639c48.8,60.6,112.3,98.9,156.9,120.4
 	c61,29.2,155.3,67.5,231.1,98.1c32.9,13.3,64.1,25.9,88.1,36c77.5,32.6,192.5,75.5,303.1,75.5c2.5,0,5.2,0,7.7-0.1

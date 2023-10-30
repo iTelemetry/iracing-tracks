@@ -3,9 +3,9 @@
 <svg version="1.1" id="Homestead_Road_B__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1388.9,948.7c-0.8,0-1.6,0-2.4,0c-124.9-2.4-225.3-2.2-322.3-2c-150.5,0.3-280.4,0.5-448.8-9.6
+<path class="track-surface" d="M1388.9,948.7c-0.8,0-1.6,0-2.4,0c-124.9-2.4-225.3-2.2-322.3-2c-150.5,0.3-280.4,0.5-448.8-9.6
 	c-91.7-5.5-172.5-24.7-240.1-57.1c-59.6-28.5-109.1-67.2-147.3-115c-78.2-98-92.8-213.7-80.4-289.3c10.9-66.1,37.4-124.3,78.9-173
 	c36.2-42.5,83.9-78,141.9-105.6c49.4-23.5,105.7-41.1,167.5-52.3c51.2-9.3,105.7-14,157.6-13.5l0,0c164.7,1.4,655.4,2.7,660.4,2.7
 	h0.6c89.1,5.3,155.2,40.8,160.5,43.8c8.4,4.1,138.8,67.9,182.5,92.6c30.6,17.3,44.9,44,36.4,68.1c-15.4,43.3-54.8,38.9-76,36.5

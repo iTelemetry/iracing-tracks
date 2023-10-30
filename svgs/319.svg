@@ -3,10 +3,10 @@
 <svg version="1.1" id="GP_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
 <g id="Layer_10">
-	<path class="st0" d="M1765.1,442v-0.2c-0.3-1.3-26.9-131.4-32.5-174.8c-1.5-11.8-6.5-21-14.3-26.8c-8.4-6.2-19.6-8-33.4-5.5
+	<path class="track-surface" d="M1765.1,442v-0.2c-0.3-1.3-26.9-131.4-32.5-174.8c-1.5-11.8-6.5-21-14.3-26.8c-8.4-6.2-19.6-8-33.4-5.5
 		c-64.9,11.9-154.6,27-249.6,43.1c-160.6,27.1-342.6,57.9-452.6,81c-38.5,8.1-81.1,8.4-105-50.4c-1.6-3.8-3.6-10-5.6-16
 		c-2.2-6.7-4.6-13.6-6.5-18.2c-0.7-1.8-1.5-3.6-2.2-5.5c-4.9-12.3-11.1-27.7-23.9-39.7c-14.8-13.9-35.5-20.7-63-20.7
 		c-16.3,0-38,0.1-61,0.2c-52.8,0.3-118.5,0.6-156.3-0.2l-3.4-0.1c-30.1-0.7-64.3-1.5-117.1,31.4c-51.1,31.8-137.4,89.8-206.8,136.4

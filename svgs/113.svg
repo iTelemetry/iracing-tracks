@@ -3,9 +3,9 @@
 <svg version="1.1" id="Infield_Legends__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1269.4,937.5c95.2-1.8,157-51.2,191.9-92.4c44.1-52.2,64.2-112.2,68.1-151c6.3-60,8.5-176.7,4.9-239.9
+<path class="track-surface" d="M1269.4,937.5c95.2-1.8,157-51.2,191.9-92.4c44.1-52.2,64.2-112.2,68.1-151c6.3-60,8.5-176.7,4.9-239.9
 	c-7.1-120.3-116.4-180.3-173.2-195.4c-21.5-5.6-46.2-12.3-72.7-19.8c-134.8-36.7-319.6-87.1-437.1-97l0,0
 	c-293.5-25-438.1,193-460.4,336.2c-4.9,30.7-7.1,61-7.1,90.3c0,98.1,26.5,185.6,77.6,252.6c45.2,59.3,107.2,97.4,170,104.8
 	C747.7,939.3,962.1,943.1,1269.4,937.5z"/>

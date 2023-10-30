@@ -3,8 +3,8 @@
 <svg version="1.1" id="Oval_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M960,227.9c-673.4,0-778,139.7-778,312.1s104.5,312.1,778,312.1s778-139.7,778-312.1S1633.4,227.9,960,227.9
+<path class="track-surface" d="M960,227.9c-673.4,0-778,139.7-778,312.1s104.5,312.1,778,312.1s778-139.7,778-312.1S1633.4,227.9,960,227.9
 	L960,227.9z"/>
 </svg>

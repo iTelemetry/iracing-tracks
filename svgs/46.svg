@@ -3,9 +3,9 @@
 <svg version="1.1" id="Barber_Full_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1662.5,928.8c-10.9,0.1-21.7-0.9-32.4-3c-25.6-5.2-44.4-16.6-55.8-33.8c-7.8-11.8-12-25.9-12.6-43.1
+<path class="track-surface" d="M1662.5,928.8c-10.9,0.1-21.7-0.9-32.4-3c-25.6-5.2-44.4-16.6-55.8-33.8c-7.8-11.8-12-25.9-12.6-43.1
 	c-1.1-26.1,0.4-80.9,1.5-109.2c1.3-35.6-9.1-68.8-28-88.9c-12-12.8-26.5-19.5-43-19.8c-180.5-4.1-496.3-4.7-726.8-5.1
 	c-49-0.1-94.2-0.2-133.8-0.3h-0.4c-52.2,0-71.4,25.9-84.4,54c-3.2,7-7.1,15.6-11.2,24.7c-20,44.2-47.3,104.7-69.8,136.7
 	c-30.9,43.9-64,52.8-92.3,55.8c-4.5,0.5-9,0.7-13.5,0.7c-36,0-62.5-15.3-79.1-29c-21.5-17.8-37.5-42.7-41.8-65.1

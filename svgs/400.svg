@@ -3,9 +3,9 @@
 <svg version="1.1" id="nashville_ss_-_config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M963.8,931c-51.9,0-103.6-5.8-154.1-17.4c-33.9-7.9-55.2-15.7-93.8-29.8l-9.7-3.5
+<path class="track-surface" d="M963.8,931c-51.9,0-103.6-5.8-154.1-17.4c-33.9-7.9-55.2-15.7-93.8-29.8l-9.7-3.5
 	c-80.3-29.3-129.3-45.8-165-57.9c-51.7-17.5-73.1-24.7-116.5-45.9c-69.1-33.8-107.2-52.4-144.3-94.7c-37.7-43.1-62.9-95.6-73-152
 	c-5.6-32.4-13.5-117.1,34.2-202.7c32.9-59.1,76.5-90.7,97.5-105.8c19.9-14.4,62.3-41.1,121.7-57.4c49.5-13.6,89.8-13.8,116.4-14
 	c116.4-0.8,194.8-0.8,246.6,0c87.5,1.3,164.6,0.7,221,0.3c25.9-0.2,48.3-0.4,65-0.3c2.5,0,7.7-0.1,14.9-0.2

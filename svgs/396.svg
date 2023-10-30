@@ -3,9 +3,9 @@
 <svg version="1.1" id="Bark_River_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M486.3,951.8c-11.8,0-22.9-1.5-38.6-3.7c-21.4-2.9-43.4-5.9-70.1-15.9c-20.6-7.7-34.3-12.8-44.4-27.3
+<path class="track-surface" d="M486.3,951.8c-11.8,0-22.9-1.5-38.6-3.7c-21.4-2.9-43.4-5.9-70.1-15.9c-20.6-7.7-34.3-12.8-44.4-27.3
 	c-7.7-11-11.6-25-11.8-41.6c-0.1-12.7,2.6-22.2,5.5-30.9c7.6-23,15.4-39.9,23.6-57.8l2.1-4.6c3.9-8.5,8.4-16.8,12.7-24.8
 	c6.9-12.8,13.5-25,17.9-37.9l0.3-0.8c2.8-8.1,8-23.3,22.6-30.8c8.3-4.3,17.4-5,23.6-4.8c6.5,0.2,12.4,1.7,21.7,5.4
 	c9,3.6,17.7,7.8,26.1,12.6h0.2l2.5,1.6c9.4,6,18.4,12.8,26.7,20.3c4.3,3.9,8.9,7.6,13.6,11c9.5,6.7,29.4,18.5,55.5,21.9

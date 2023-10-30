@@ -3,9 +3,9 @@
 <svg version="1.1" id="lankebanen_Short__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1432,748.4c-6.9-31.5-23.7-53.5-49.9-65.5c-17.2-7.9-37.9-11-61.4-9.3c-14.9,1.1-36.9,3.2-58.3,5.3
+<path class="track-surface" d="M1432,748.4c-6.9-31.5-23.7-53.5-49.9-65.5c-17.2-7.9-37.9-11-61.4-9.3c-14.9,1.1-36.9,3.2-58.3,5.3
 	c-17.9,1.7-36.3,3.5-50.8,4.7c-82.9,7-99-27.5-130.9-96.3l-7.7-16.6c-43.7-93.8-61.8-132.7-89.1-175.3
 	c-33.1-51.5-66.8-84.1-99.4-115.6c-7.9-7.6-16.1-15.5-24.1-23.6c-19.5-19.4-58.3-54.3-84.6-76.9c-68.3-58.6-115.8-48.5-143.6-29.8
 	c-27.5,18.5-46.1,64.1-21.9,120.5c18.8,43.8,65.7,151.5,96.3,206.7c17.4,31.4,41.1,54,70.6,67.1c38.5,17.2,76.4,26.8,104,33.8

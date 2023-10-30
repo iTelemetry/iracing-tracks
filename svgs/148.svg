@@ -3,9 +3,9 @@
 <svg version="1.1" id="Club__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M888.3,981c84.8-1.6,107.7-58.1,112.6-75.4c15.3-53,11.2-106.8,8.6-142.5l-0.4-6.6c-2-27.4-6.9-69.2-11.4-109.7
+<path class="track-surface" d="M888.3,981c84.8-1.6,107.7-58.1,112.6-75.4c15.3-53,11.2-106.8,8.6-142.5l-0.4-6.6c-2-27.4-6.9-69.2-11.4-109.7
 	c-3.5-30.9-6.9-60.1-8.9-82.1c-3.8-41.1,25.4-51.5,38.1-54c17.1-3.4,30.8-1.6,40.7,5.3c13.7,9.5,18.4,27.1,20,36.8
 	c2.2,13.3,4.2,31.8,6.4,51.5c3.9,35,8.5,74.8,15,100.2c18.4,71.2,67.8,77.5,97.3,81.1c1.6,0.1,3.2,0.4,4.8,0.6
 	c72.9,9.6,99.8,20.4,126.6,37.9c16.5,10.9,37.8,25.5,60.3,41c43.5,29.9,92.6,63.9,131.7,87.2c58.5,35,100.8,9,120.8-9.6

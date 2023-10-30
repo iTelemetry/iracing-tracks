@@ -3,9 +3,9 @@
 <svg version="1.1" id="Rallycross__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1268.2,391.6c-11.7-45.2-41.3-68.7-85.7-68c-41.4,0.7-101.5,2.2-134.6,4.1c-28.2,1.6-49.7,10.9-63.9,27.6
+<path class="track-surface" d="M1268.2,391.6c-11.7-45.2-41.3-68.7-85.7-68c-41.4,0.7-101.5,2.2-134.6,4.1c-28.2,1.6-49.7,10.9-63.9,27.6
 	c-15.9,18.7-22.1,45.8-18.5,80.6c3.7,35.5-13.6,49.5-29.1,57.8c-30.9,16.5-123.1,56.9-124,57.3l-0.2,0.1
 	c-34.3,15.8-47.8-6.4-49.2-8.9l-0.4-0.7c-20.7-32.5,5.4-66.1,6.5-67.5l0.2-0.3l49.1-72.3l0.4-0.7c18-31.4,27-40.5,37.8-49.8
 	c2.6-2.2,6.2-5.1,10.1-8.1c13.8-10.8,31-24.2,36.7-36.9c5.8-13,6-24.6,0.5-34.4c-8.8-15.7-29-20.7-40.3-22.2

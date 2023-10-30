@@ -3,9 +3,9 @@
 <svg version="1.1" id="Trioval_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1193.2,882c-35.9,0-68-5.7-91.4-16.2l0,0C768.6,716.7,587.1,631.8,530.3,598.6
+<path class="track-surface" d="M1193.2,882c-35.9,0-68-5.7-91.4-16.2l0,0C768.6,716.7,587.1,631.8,530.3,598.6
 	c-67.9-39.8-161.1-133.2-138.8-226.9c19.6-83,117.8-130.6,291.7-142.3c129.5-8.5,311.9-18.1,591.2-31.2
 	c71.4-2.9,143.4,29.6,193,87.1c53.4,61.8,75.1,145,59.4,228.2l-0.3,1.4l-37.8,169.8c-7.1,32.4-21.5,62.7-42.1,88.7
 	C1384.7,849.9,1278.3,882,1193.2,882z"/>

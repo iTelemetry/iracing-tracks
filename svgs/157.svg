@@ -3,9 +3,9 @@
 <svg version="1.1" id="Mid_Ohio_Alt_Oval_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1579.6,535.3c-3.7-67.3-26.9-119-68.5-154.1c-62.4-52.3-145-48.9-177.7-45l0,0
+<path class="track-surface" d="M1579.6,535.3c-3.7-67.3-26.9-119-68.5-154.1c-62.4-52.3-145-48.9-177.7-45l0,0
 	c-63.6,7.6-105.5,59.9-133.4,94.5c-4,5.2-8,9.8-11.3,13.8c-46.2,54.1-86.9,64.5-120.8,67.3c-11.9,0.9-32.1,1.5-49.9,2.1
 	c-13.2,0.3-25.4,0.9-34.6,1.2c-5.8,0.3-11.6,0.6-17.1,0.6c-86.9,0-133.4-39.5-174.6-74.3c-7.3-6.1-14.1-11.9-21.1-17.4
 	c-73.7-58.4-163.9-79.8-268.2-63.6C388.3,378.1,338.8,479.1,340,545.1c0.9,55.7,26.3,107.4,71,145.6c35.2,30,81.4,50.2,117.4,51.1

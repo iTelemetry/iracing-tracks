@@ -3,9 +3,9 @@
 <svg version="1.1" id="Martinsville_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1743.5,387.4c-18.7-35.3-45.2-67.4-78.5-95.2c-66.2-55.2-152.5-86.8-236.7-86.8H512.9
+<path class="track-surface" d="M1743.5,387.4c-18.7-35.3-45.2-67.4-78.5-95.2c-66.2-55.2-152.5-86.8-236.7-86.8H512.9
 	c-96.3,0-192,23.5-262.5,64.4C157.9,323.5,109,405.2,109,506c0,99.6,48.9,180.8,141.3,235c71.2,41.7,166.9,65.7,262.6,65.7h915.4
 	c84.2,0,170.4-31.6,236.7-86.8c33.4-27.8,59.8-59.8,78.5-95.2c20.1-38,30.4-77.9,30.4-118.7S1763.6,425.3,1743.5,387.4z"/>
 </svg>

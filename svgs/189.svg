@@ -3,8 +3,8 @@
 <svg version="1.1" id="Legends_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#231F20;stroke-width:10;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#231F20;stroke-width:10;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1385.5,142H534.5c-197.9,0-359,178.6-359,398s161,398,359,398h851.1c197.9,0,358.9-178.5,358.9-398
+<path class="track-surface" d="M1385.5,142H534.5c-197.9,0-359,178.6-359,398s161,398,359,398h851.1c197.9,0,358.9-178.5,358.9-398
 	S1583.4,142,1385.5,142z"/>
 </svg>

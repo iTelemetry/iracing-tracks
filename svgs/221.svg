@@ -3,9 +3,9 @@
 <svg version="1.1" id="Chicane_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1752.5,440.2c14-11.5,25.3-40.5,27.5-46.3c1.3-2.5,4.6-9.6,3.9-17.4c-0.5-4.9-1.6-9.8-3.2-14.5
+<path class="track-surface" d="M1752.5,440.2c14-11.5,25.3-40.5,27.5-46.3c1.3-2.5,4.6-9.6,3.9-17.4c-0.5-4.9-1.6-9.8-3.2-14.5
 	c-0.8-2.6-1.6-5.2-2.4-8.6l-0.2-0.6c-18.4-58.4-106-59.4-109.7-59.4l-631.1-2.9c-0.6,0-56-0.5-88.4-0.5
 	c-62.9-0.7-85.6,6.5-98.4,12.9l-0.1,0.1C815.6,321,711,415.1,698.1,427.1c-18.2,17.1-56.2,35.9-73.2,40.5
 	c-28.8,5.7-55.9,22.7-58.5,24.3c-21.9,13-40.8,43-60.8,74.7c-5.4,8.5-10.9,17.3-16.6,25.9c-17.3,25.2-41.3,35.9-71.3,31.9

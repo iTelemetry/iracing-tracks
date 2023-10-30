@@ -3,9 +3,9 @@
 <svg version="1.1" id="Fosters_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1518.5,803.7c-1.3-5.3-4.9-12.8-14.9-19c-10.5-8.3-98.1-75.5-101.8-78.4c-38.4-29.5-40.7-79.1-40.7-79.5v-0.6
+<path class="track-surface" d="M1518.5,803.7c-1.3-5.3-4.9-12.8-14.9-19c-10.5-8.3-98.1-75.5-101.8-78.4c-38.4-29.5-40.7-79.1-40.7-79.5v-0.6
 	c-0.4-3.8-8.9-94.3-11.3-113.1c-1.8-13.5-6.2-29.4-6.4-30l-0.2-0.5L1291,356.7l-0.1-0.3c-0.7-1.6-73.2-159.4-81.8-179.4
 	c-8.3-20.5-15.7-30-21.3-35.9c-19.7-21.7-68-25.2-79.2-24.2c-12,1.1-66.1,12-73.3,13.4l-122.5,19.1l-86.7,8.5l-8.7,0.6h-0.1
 	c-71.2,5.8-125.3,2.6-145.5,0.9c-28.3-3.6-54.6-15.1-65.8-20c-2.5-1.1-4.3-1.9-5.6-2.4c-34.7-12.8-92.8-23.5-107.2-25.8

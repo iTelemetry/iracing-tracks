@@ -3,9 +3,9 @@
 <svg version="1.1" id="Island_Historic_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1809.4,520.2l-0.4-0.5c-18.8-22.7-39.7-15.2-46.6-12.7l-0.7,0.2l-0.7,0.4c-34.7,18.8-168,68.1-169.4,68.6
+<path class="track-surface" d="M1809.4,520.2l-0.4-0.5c-18.8-22.7-39.7-15.2-46.6-12.7l-0.7,0.2l-0.7,0.4c-34.7,18.8-168,68.1-169.4,68.6
 	l-0.2,0.1l-77.2,33.3l-0.2,0.1c-2.3,1-226.8,103.4-246,111.1l-0.3,0.1c-29.4,12.8-72.4,22.2-110.7-5.5l-1.3-1
 	c-40.2-31-42.5-82.8-42.5-83.3v-0.6c-0.4-4-9.4-99-11.9-118.7c-1.9-14.2-6.5-30.8-6.7-31.5l-0.2-0.6l-54.8-132.1l-0.2-0.4
 	c-0.8-1.7-76.9-167.4-85.9-188.3c-8.7-21.5-16.5-31.4-22.3-37.7c-20.7-22.8-71.4-26.5-83.2-25.4c-12.5,1.1-69.3,12.6-76.9,14.1

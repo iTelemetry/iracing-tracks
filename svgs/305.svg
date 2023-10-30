@@ -3,9 +3,9 @@
 <svg version="1.1" id="Knoxville__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1548,540c-3.4-110.1-46-203.9-123.2-271.1c-31.3-27.3-67.2-49.4-106.8-65.7c-34.5-14.3-70.7-23.5-104.5-26.7
+<path class="track-surface" d="M1548,540c-3.4-110.1-46-203.9-123.2-271.1c-31.3-27.3-67.2-49.4-106.8-65.7c-34.5-14.3-70.7-23.5-104.5-26.7
 	c-133.5-12.7-387.9-13.7-513.6-2c-142.6,13.2-221.8,88.6-263.2,149.6c-23.7,34.9-41.3,74-52.5,116.2c-9.8,36.9-13.9,74.1-11.8,107.6
 	c8.1,133.5,72.4,217.2,124.9,263.9c58.5,52,135.2,87,205.2,93.5l0,0c63.8,5.9,153.9,8.3,244.2,8.3c101.3,0,202.9-3,267.6-7.3
 	c137.4-9.1,217.2-79.1,259.9-136.3C1522.8,704.8,1550.4,618.9,1548,540z"/>

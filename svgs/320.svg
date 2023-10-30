@@ -3,9 +3,9 @@
 <svg version="1.1" id="Kokomo__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1559.6,265.2c-66.2-70.8-160-113.1-264.1-119.3c-288.5-17.1-384.1-13-593.5-4.2l-32.7,1.4
+<path class="track-surface" d="M1559.6,265.2c-66.2-70.8-160-113.1-264.1-119.3c-288.5-17.1-384.1-13-593.5-4.2l-32.7,1.4
 	c-163.7,6.9-260.4,79.6-312.7,139.6c-64.7,74.1-98.5,171.2-90.3,259.6c10.8,118,58.9,211.3,142.4,277.5
 	c75.3,59.7,177.3,96.6,311.8,113.1l0.8,0.1c0.7,0.1,1.8,0.3,3.4,0.4c88,10.4,167.8,12.7,219.3,12.7c0.8,0,1.6,0,2.4,0
 	c144.8,0,274.6-16.1,386-48c40.8-11.7,119.6-40.3,189.6-100.8c38.4-33.2,69-71.9,91.1-114.6c25.9-50.5,40-107,41.6-168

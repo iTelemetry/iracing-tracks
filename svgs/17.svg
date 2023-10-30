@@ -3,9 +3,9 @@
 <svg version="1.1" id="Lanier_Oval__Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1643.8,551.8c-2.4-74.3-20.5-141-53.5-198.4c-28.5-49.4-68.1-91.8-117.7-126
+<path class="track-surface" d="M1643.8,551.8c-2.4-74.3-20.5-141-53.5-198.4c-28.5-49.4-68.1-91.8-117.7-126
 	c-105.9-73.2-221.5-85.4-254.4-87.4c-85.7-5.2-214.3-3.8-338.7-2.3c-64.6,0.7-125.7,1.5-178.8,1.2c-65.5-0.4-127,11.7-182.7,35.6
 	c-50.5,21.7-95.4,52.8-133.2,92.4c-36.1,37.7-65.1,82.9-84,130.7c-18.2,46.1-26.6,93.5-24.5,137.2C283,672.5,333.9,777,427.5,845.5
 	c68.7,50.2,157.9,79.9,273.1,90.7c63.5,6,158.4,7.6,253.1,7.6c56.3,0,112.4-0.5,161.8-1c32.3-0.4,62.9-0.6,87.6-0.7

@@ -3,9 +3,9 @@
 <svg version="1.1" id="National_-_Config" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#231F20;stroke-width:10;stroke-miterlimit:10;}
+	.track-surface{fill:none;stroke:#231F20;stroke-width:10;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M1591.8,641.9l-11.9-98.1c-1.7-15.5-9.1-28.3-20.8-36.1c-12.3-8.3-28.1-10.4-44.4-5.8l-505,139
+<path class="track-surface" d="M1591.8,641.9l-11.9-98.1c-1.7-15.5-9.1-28.3-20.8-36.1c-12.3-8.3-28.1-10.4-44.4-5.8l-505,139
 	c-13.9,3.8-28.3-4.3-32.2-18.3c-0.8-2.7-1.1-5.6-0.9-8.4c4.5-81.9,15.5-278.2,20.4-331.5c3.4-36.5,4.6-63,0.6-82.4
 	c-4.7-22.8-17-35.4-37.6-38.5c-14.5-2.2-27.3,0.9-37.2,9c-17.1,13.9-20.8,37.7-21.5,50.7c-0.4,7.1,0.2,14.6,0.8,22.6
 	c1.6,21.6,3.3,43.9-14.1,57.9c-9.3,7.8-21.6,11.2-33.5,9.3c-16.5-2.5-32.9-14.2-45-32c-6.6-9.8-12.6-21.6-18.4-33
